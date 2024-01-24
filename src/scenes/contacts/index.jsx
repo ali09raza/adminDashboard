@@ -60,7 +60,7 @@ const Contacts = () => {
       />
       <Box
         m="40px 0 0 0"
-        height="120vh" //height="75vh"
+        height="120vh"
         sx={{
           "& .MuiDataGrid-root": {
             border: "none",
